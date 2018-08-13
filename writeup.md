@@ -37,8 +37,6 @@ Potential shortcoming of current approche would be:
 1. when the lane is curved, it is not appropriate to fit a line, better to fit a curve
 2. using line segments slope sign to determine if it belongs to left or right lane is too brief
 
-Another shortcoming could be ...
-
 
 ### 3. Suggest possible improvements to your pipeline
 
